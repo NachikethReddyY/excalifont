@@ -1,0 +1,15 @@
+{
+  "name": "excalifont",
+  "version": "1.0.0",
+  "description": "Self-hosted Excalifont web font from Excalidraw",
+  "license": "OFL-1.1",
+  "style": "./style.css",
+  "exports": {
+    "./style.css": "./style.css",
+    "./fonts/Excalifont-Regular.woff2": "./fonts/Excalifont-Regular.woff2",
+    "./fonts/Excalifont-Regular.woff": "./fonts/Excalifont-Regular.woff",
+    "./fonts/Excalifont-Regular.ttf": "./fonts/Excalifont-Regular.ttf"
+  },
+  "files": ["style.css", "fonts", "OFL.txt", "README.md"],
+  "keywords": ["excalidraw", "excalifont", "font", "handwriting", "woff2"]
+}
